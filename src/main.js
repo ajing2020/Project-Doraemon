@@ -1,6 +1,6 @@
 const string = `
 
-.html body{
+#html{
     background: #93b8ca;
     height: 100vh;
 }
